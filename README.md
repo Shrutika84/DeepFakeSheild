@@ -1,10 +1,7 @@
-Awesome! Here's a **professional GitHub-ready `README.md`** for your project `DeepFakeShield`.
-
----
 
 ## 🛡️ DeepFakeShield: AI-Powered Detection of Fake Images
 
-![demo](./assets/demo-screenshot.png) <!-- Optional: Add UI screenshot here -->
+![demo](![image](https://github.com/user-attachments/assets/644d8c8e-26e6-48ea-bab7-8590324934f7)
 
 ### 🔍 About the Project
 
@@ -71,7 +68,7 @@ pip install -r requirements.txt
 Create a `.env` file in the root:
 
 ```
-HUGGINGFACEHUB_API_TOKEN=your_token_here
+HUGGINGFACEHUB_API_TOKEN= your_token_here
 ```
 
 #### ✅ 5. Train the model (or skip if already trained)
@@ -94,7 +91,6 @@ Try testing with:
 
 * Real face: from CelebA, FFHQ
 * AI-generated face: from ThisPersonDoesNotExist, Midjourney
-* Cartoon/Ghibli image (edge case)
 
 ---
 
@@ -103,19 +99,12 @@ Try testing with:
 | Model        | Accuracy | F1 Score | Notes              |
 | ------------ | -------- | -------- | ------------------ |
 | SimpleCNN    | 70%      | 0.68     | Small dataset demo |
-| EfficientNet | TBD      | TBD      | Coming soon        |
+
 
 ---
-
 ### 🤖 LLM Explainability
 
-Uses Hugging Face `pipeline()` with `tiiuae/falcon-rw-1b` or `mistralai/Mistral-7B-Instruct` to explain classification in human-readable text.
-
----
-
-### 📸 Screenshots (Optional)
-
-You can add a few screenshots under a `./assets/` folder and reference them here.
+Uses Hugging Face `pipeline()` with `tiiuae/falcon-rw-1b`  to explain classification in human-readable text.
 
 ---
 
@@ -131,8 +120,4 @@ You can add a few screenshots under a `./assets/` folder and reference them here
 
 **Shrutika Parab**
 M.S. in Artificial Intelligence, Yeshiva University
-[LinkedIn](https://www.linkedin.com/in/your-profile)
-
----
-
-Would you like help creating a `.gitignore`, `requirements.txt`, or pushing to GitHub next?
+[LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/shrutika-parab-4b6826257/))
