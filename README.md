@@ -1,7 +1,7 @@
 
 ## 🛡️ DeepFakeShield: AI-Powered Detection of Fake Images
 
-![demo](![image](https://github.com/user-attachments/assets/644d8c8e-26e6-48ea-bab7-8590324934f7)
+![demo](![image](https://github.com/user-attachments/assets/644d8c8e-26e6-48ea-bab7-8590324934f7))
 
 ### 🔍 About the Project
 
